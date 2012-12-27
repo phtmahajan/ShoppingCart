@@ -3,3 +3,9 @@ D:\Projects\ShoppingCart\ShoppingCart.WebSite\ShoppingCart.DAL\bin\Debug\Shoppin
 D:\Projects\ShoppingCart\ShoppingCart.WebSite\ShoppingCart.DAL\obj\Debug\ShoppingCart.DAL.csprojResolveAssemblyReference.cache
 D:\Projects\ShoppingCart\ShoppingCart.WebSite\ShoppingCart.DAL\obj\Debug\ShoppingCart.DAL.dll
 D:\Projects\ShoppingCart\ShoppingCart.WebSite\ShoppingCart.DAL\obj\Debug\ShoppingCart.DAL.pdb
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.DAL\bin\Debug\ShoppingCart.DAL.dll
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.DAL\bin\Debug\ShoppingCart.DAL.pdb
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.DAL\bin\Debug\log4net.dll
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.DAL\obj\Debug\ShoppingCart.DAL.csprojResolveAssemblyReference.cache
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.DAL\obj\Debug\ShoppingCart.DAL.dll
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.DAL\obj\Debug\ShoppingCart.DAL.pdb
