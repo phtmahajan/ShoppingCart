@@ -1,0 +1,5 @@
+D:\Projects\ShoppingCart\ShoppingCart.WebSite\ShoppingCart.BLL\bin\Debug\ShoppingCart.BLL.dll
+D:\Projects\ShoppingCart\ShoppingCart.WebSite\ShoppingCart.BLL\bin\Debug\ShoppingCart.BLL.pdb
+D:\Projects\ShoppingCart\ShoppingCart.WebSite\ShoppingCart.BLL\obj\Debug\ShoppingCart.BLL.csprojResolveAssemblyReference.cache
+D:\Projects\ShoppingCart\ShoppingCart.WebSite\ShoppingCart.BLL\obj\Debug\ShoppingCart.BLL.dll
+D:\Projects\ShoppingCart\ShoppingCart.WebSite\ShoppingCart.BLL\obj\Debug\ShoppingCart.BLL.pdb

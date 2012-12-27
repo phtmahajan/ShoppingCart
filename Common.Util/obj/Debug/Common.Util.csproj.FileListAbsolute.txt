@@ -1,0 +1,4 @@
+C:\TFS-PHT\PHT\Development\Shared\Common\Common.Util\bin\Debug\Common.Util.dll
+C:\TFS-PHT\PHT\Development\Shared\Common\Common.Util\bin\Debug\Common.Util.pdb
+C:\TFS-PHT\PHT\Development\Shared\Common\Common.Util\obj\Debug\Common.Util.dll
+C:\TFS-PHT\PHT\Development\Shared\Common\Common.Util\obj\Debug\Common.Util.pdb
