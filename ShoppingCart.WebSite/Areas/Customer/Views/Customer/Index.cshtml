@@ -52,7 +52,8 @@
             </tbody>
         </table>
         <p class='grandTotal'>
-            Total value: <span data-bind='text: formatCurrency(grandTotal())'></span>
+            Total value: <span id="grandtotal" data-bind='text: formatCurrency(grandTotal())'></span>
+
         </p>
         <button data-bind='click: addLine'>Add product</button>
         <button data-bind='click: save'>Submit order</button>
@@ -68,6 +69,7 @@
                 self.category = ko.observable();
                 self.product = ko.observable();
                 self.quantity = ko.observable(1);
+                self.price = ko.observable();
                 self.subtotal = ko.computed(function () {
                     return self.product() ? self.product().price * parseInt("0" + self.quantity(), 10) : 0;
                 });
@@ -95,13 +97,21 @@
                     var dataToSave = $.map(self.lines(), function (line) {
                         return line.product() ? {
                             productName: line.product().name,
-                            quantity: line.quantity()
+                            quantity: line.quantity(),
+                            price: line.product().price,
+                            subtotal: line.subtotal()
                         } : undefined
-                    });                    
-                    alert("Could now send this to server: " + JSON.stringify(dataToSave));
-                    //$.post("/Customer/Customer/Add", JSON.stringify(dataToSave), function (data) {
-                    //    alert("1");
-                    //});
+                    });
+                    //alert("Could now send this to server: " + JSON.stringify(dataToSave));
+                    $.ajax({
+                        url: '/Customer/Customer/Add',
+                        type: 'POST',
+                        contentType: 'application/json; charset=utf-8',
+                        data: JSON.stringify(dataToSave),
+                        success: function (result) {
+
+                        }
+                    });
                 };
             };
 

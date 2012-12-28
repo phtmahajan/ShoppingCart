@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using Models= ShoppingCart.WebSite.Models;
+using Models = ShoppingCart.WebSite.Models;
 
 namespace ShoppingCart.WebSite.Areas.Customer.Controllers
 {
@@ -17,10 +17,9 @@ namespace ShoppingCart.WebSite.Areas.Customer.Controllers
             return View();
         }
         [HttpPost]
-        public JsonResult Add(Models.Customer obj)
+        public ActionResult Add(IEnumerable<Models.Customer> model)
         {
-           // return View();
-            return Json("");
+            return View("");
         }
 
     }

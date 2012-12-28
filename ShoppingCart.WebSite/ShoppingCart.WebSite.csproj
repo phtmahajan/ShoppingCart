@@ -244,13 +244,6 @@
     <Content Include="Areas\Customer\Views\Web.config" />
     <Content Include="Areas\Customer\Views\Customer\Index.cshtml" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
-    <None Include="Script1\jquery-1.4.1-vsdoc.js" />
-    <Content Include="Script1\jquery-1.4.1.js" />
-    <Content Include="Script1\jquery-1.4.1.min.js" />
-    <Content Include="Script1\jquery.tmpl.min.js" />
-    <Content Include="Script1\knockout-2.1.0.js" />
-    <Content Include="Script1\knockout.mapping-latest.js" />
-    <Content Include="Script1\knockout.simpleGrid.js" />
     <Content Include="Scripts\jquery-1.7.1.js" />
     <Content Include="Scripts\jquery-1.7.1.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
