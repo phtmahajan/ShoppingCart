@@ -57,6 +57,7 @@ D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.WebSite\bin\DotNetOpenAuth.OA
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.WebSite\bin\DotNetOpenAuth.OpenId.dll
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.WebSite\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.WebSite\bin\EntityFramework.dll
+D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.WebSite\bin\log4net.dll
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.WebSite\bin\Microsoft.Web.Infrastructure.dll
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.WebSite\bin\Microsoft.Web.WebPages.OAuth.dll
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.WebSite\bin\Newtonsoft.Json.dll
@@ -94,7 +95,5 @@ D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.WebSite\bin\DotNetOpenAuth.OA
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.WebSite\bin\DotNetOpenAuth.OAuth.xml
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.WebSite\bin\DotNetOpenAuth.OpenId.xml
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.WebSite\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
-D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.WebSite\obj\Debug\ShoppingCart.WebSite.csprojResolveAssemblyReference.cache
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.WebSite\obj\Debug\ShoppingCart.WebSite.dll
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.WebSite\obj\Debug\ShoppingCart.WebSite.pdb
-D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.WebSite\bin\log4net.dll

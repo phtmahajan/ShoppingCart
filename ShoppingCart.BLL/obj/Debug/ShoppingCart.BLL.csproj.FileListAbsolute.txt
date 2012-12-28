@@ -6,7 +6,6 @@ D:\Projects\ShoppingCart\ShoppingCart.WebSite\ShoppingCart.BLL\obj\Debug\Shoppin
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.BLL\bin\Debug\ShoppingCart.BLL.dll
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.BLL\bin\Debug\ShoppingCart.BLL.pdb
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.BLL\bin\Debug\log4net.dll
-D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.BLL\obj\Debug\ShoppingCart.BLL.csprojResolveAssemblyReference.cache
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.BLL\obj\Debug\ShoppingCart.BLL.Resource.Resource.resources
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.BLL\obj\Debug\ShoppingCart.BLL.csproj.GenerateResource.Cache
 D:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.BLL\obj\Debug\ShoppingCart.BLL.dll
